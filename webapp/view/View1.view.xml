@@ -5,6 +5,8 @@
     <Page id="page" title="{i18n>title}">
         <Button text="Hello World" press="onPress"></Button>
 
+        <Text text="{i18n>customerName}"></Text>
+
         <VBox class="sapUiTinyMargin">
             <Label text="Id do Cliente"/>
             <Input />
