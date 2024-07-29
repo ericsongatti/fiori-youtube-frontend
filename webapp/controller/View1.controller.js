@@ -10,7 +10,7 @@ function (Controller) {
         },
 
         onPress: function() {
-            alert("Hello world");
+            alert("Hello World");
         }
     });
 });
